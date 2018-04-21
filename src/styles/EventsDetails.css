@@ -1,0 +1,11 @@
+.container{
+    background-color: gainsboro;
+    text-align: center;
+    width: 33.33%;
+    /*border: 1px black solid;*/
+
+}
+
+p{
+    color: #1890ff;
+}

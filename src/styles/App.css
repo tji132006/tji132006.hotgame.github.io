@@ -1,0 +1,6 @@
+@import '../../node_modules/antd/dist/antd.css';
+@import 'EventHeader.css';
+@import 'EventFooter.css';
+@import 'EventContainer.css';
+@import 'EventBlock.css';
+@import 'EventsDetails.css';
